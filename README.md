@@ -1,14 +1,31 @@
 # Homework3
 password generator
+#### really missed the mark on this one...
 
+### steps:
 Creating variables first
 Creating functions
 Call functions to action
 
 
-Title (A Title Image too if possible…Edit them on canva.com if you are not a graphic designer.)
-		Description (Describe by words and images alike)
-		Demo (Images, Video links, Live Demo links)
-		Technologies Used
-		Special Gotchas of your projects (Problems you faced, unique elements of your project)
-		Technical Description of your project like- Installation, Setup, How to contribute.
+
+/ // Write password to the #password input
+
+
+// // Add event listener to generate button
+
+
+// // GIVEN I need a new, secure password
+
+// // WHEN I click the button to generate a password
+// // THEN I am presented with a series of prompts for password criteria
+
+// // WHEN prompted for password criteria
+// // THEN I select which criteria to include in the password
+
+// // WHEN prompted for the length of the password
+// // THEN I choose a length of at least 8 characters and no more than 128 characters
+
+// // WHEN prompted for character types to include in the password
+// // THEN I choose lowercase, uppercase, numeric, and/or special characters
+
