@@ -1,6 +1,5 @@
 # Homework3
 password generator
-#### really missed the mark on this one...
 
 ### steps:
 Creating variables first
